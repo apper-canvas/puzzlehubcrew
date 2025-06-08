@@ -1,6 +1,6 @@
 import React from 'react';
 import PuzzleCard from '../molecules/PuzzleCard';
-import { EmptyState } from './EmptyState';
+import EmptyState from './EmptyState';
 import { motion } from 'framer-motion';
 
 const PuzzleGridSection = ({ puzzles, selectedType, puzzleTypesConfig, onPlay }) => {
@@ -17,13 +17,13 @@ const PuzzleGridSection = ({ puzzles, selectedType, puzzleTypesConfig, onPlay })
                 <span className="text-gray-600">{puzzles.length} available</span>
             </div>
 
-{puzzles.length === 0 ? (
+            {puzzles.length === 0 ? (
                 <EmptyState
                     icon="Search"
                     message="No puzzles found for this type"
                     animateIcon={false}
                 />
-) : (
+            ) : (
                 <motion.div
                     className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"
                     initial={{ opacity: 0 }}
