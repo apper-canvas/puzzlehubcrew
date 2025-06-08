@@ -1,7 +1,8 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { ToastContainer } from 'react-toastify'
 import Layout from './components/Layout'
-import { routes, routeArray } from './config/routes'
+import { routeArray } from './config/routes'
+import HomePage from '@/components/pages/HomePage'
 import 'react-toastify/dist/ReactToastify.css'
 
 function App() {
@@ -16,7 +17,7 @@ function App() {
               element={<route.component />}
             />
           ))}
-          <Route index element={<routes.puzzles.component />} />
+<Route index element={<HomePage />} />
         </Route>
       </Routes>
       <ToastContainer
