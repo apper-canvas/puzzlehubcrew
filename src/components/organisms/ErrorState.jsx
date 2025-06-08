@@ -21,3 +21,5 @@ const ErrorState = ({ message, onRetry }) => {
 };
 
 export default ErrorState;
+
+export { ErrorState };

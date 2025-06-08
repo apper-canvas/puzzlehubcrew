@@ -23,12 +23,12 @@ const PuzzleGridSection = ({ puzzles, selectedType, puzzleTypesConfig, onPlay })
                     message="No puzzles found for this type"
                     animateIcon={false}
                 />
-            ) : (
+) : (
                 <motion.div
                     className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
-                    transition={{ duration: 0.3 }}
+                    transition={{ duration: 0.5 }}
                 >
                     {puzzles.map((puzzle, index) => (
                         <motion.div

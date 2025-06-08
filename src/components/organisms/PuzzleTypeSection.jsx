@@ -19,7 +19,7 @@ const PuzzleTypeSection = ({ selectedType, setSelectedType, getPuzzleCount, puzz
                 ))}
             </div>
 
-            {/* Filter Tabs */}
+{/* Filter Tabs */}
             <div className="flex space-x-2 overflow-x-auto pb-2">
                 <Button
                     onClick={() => setSelectedType('all')}

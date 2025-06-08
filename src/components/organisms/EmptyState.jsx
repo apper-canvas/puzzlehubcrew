@@ -1,8 +1,12 @@
 import React from 'react';
-import ApperIcon from '@/components/ApperIcon'; // Existing dependency
-import { motion } from 'framer-motion'; // Allowed as it's from MainFeature.jsx
+import ApperIcon from '../ApperIcon';
+import { motion } from 'framer-motion';
 
-const EmptyState = ({ iconName, title, message, animateIcon = false }) => {
+export const EmptyState = ({ icon, title, message, animateIcon = false }) => {
+    // Provide fallback values for props
+    const iconName = icon || 'puzzle';
+    const displayMessage = message || 'No items to display';
+    
     return (
         <div className="p-6 text-center">
             {animateIcon ? (
@@ -16,9 +20,7 @@ const EmptyState = ({ iconName, title, message, animateIcon = false }) => {
                 <ApperIcon name={iconName} className="w-12 h-12 text-gray-300 mx-auto mb-4" />
             )}
             {title && <h3 className="text-lg font-semibold text-gray-800 mb-2">{title}</h3>}
-            <p className="text-gray-600">{message}</p>
+            <p className="text-gray-600">{displayMessage}</p>
         </div>
     );
 };
-
-export default EmptyState;
