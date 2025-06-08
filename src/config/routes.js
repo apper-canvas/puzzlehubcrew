@@ -1,9 +1,9 @@
-import Home from '../pages/Home'
 import Puzzles from '../pages/Puzzles'
 import DailyChallenge from '../pages/DailyChallenge'
 import Progress from '../pages/Progress'
 import Leaderboard from '../pages/Leaderboard'
 import PuzzlePlay from '../pages/PuzzlePlay'
+import NotFound from '../pages/NotFound'
 
 export const routes = {
   puzzles: {
@@ -40,6 +40,13 @@ export const routes = {
     path: '/play/:puzzleId',
     icon: 'Play',
     component: PuzzlePlay,
+    hidden: true
+  },
+  notFound: {
+    id: 'notFound',
+    label: '404',
+    path: '*',
+    component: NotFound,
     hidden: true
   }
 }
