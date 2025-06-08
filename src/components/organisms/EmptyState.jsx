@@ -2,7 +2,7 @@ import React from 'react';
 import ApperIcon from '../ApperIcon';
 import { motion } from 'framer-motion';
 
-export const EmptyState = ({ icon, title, message, animateIcon = false }) => {
+const EmptyState = ({ icon, title, message, animateIcon = false }) => {
     // Provide fallback values for props
     const iconName = icon || 'puzzle';
     const displayMessage = message || 'No items to display';
@@ -24,3 +24,5 @@ export const EmptyState = ({ icon, title, message, animateIcon = false }) => {
         </div>
     );
 };
+
+export default EmptyState;
