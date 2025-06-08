@@ -1,0 +1,60 @@
+{
+  "puzzlesCompleted": 12,
+  "totalTime": 2840,
+  "currentStreak": 3,
+  "lastPlayed": "2024-01-15T14:30:00.000Z",
+  "completedPuzzles": [
+    {
+      "puzzleId": "puzzle-1",
+      "title": "Mountain Landscape",
+      "type": "jigsaw",
+      "difficulty": "Easy",
+      "completionTime": 180,
+      "score": 250,
+      "completedAt": "2024-01-13T10:15:00.000Z"
+    },
+    {
+      "puzzleId": "puzzle-4",
+      "title": "Classic Sudoku",
+      "type": "sudoku",
+      "difficulty": "Easy",
+      "completionTime": 240,
+      "score": 220,
+      "completedAt": "2024-01-13T15:30:00.000Z"
+    },
+    {
+      "puzzleId": "puzzle-9",
+      "title": "Science Facts",
+      "type": "trivia",
+      "difficulty": "Easy",
+      "completionTime": 120,
+      "score": 280,
+      "completedAt": "2024-01-14T09:20:00.000Z"
+    },
+    {
+      "puzzleId": "puzzle-2",
+      "title": "Number Sequence Challenge",
+      "type": "logic",
+      "difficulty": "Medium",
+      "completionTime": 300,
+      "score": 350,
+      "completedAt": "2024-01-14T16:45:00.000Z"
+    },
+    {
+      "puzzleId": "puzzle-11",
+      "title": "City Skyline",
+      "type": "jigsaw",
+      "difficulty": "Medium",
+      "completionTime": 420,
+      "score": 380,
+      "completedAt": "2024-01-15T11:10:00.000Z"
+    }
+  ],
+  "achievements": [
+    "firstSolve",
+    "hotStreak"
+  ],
+  "favoriteType": "jigsaw",
+  "averageTime": 272,
+  "bestStreak": 5
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "puzzle-1",
+    "type": "jigsaw",
+    "title": "Mountain Landscape",
+    "difficulty": "Easy",
+    "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "data": {
+      "pieces": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+      "category": "nature"
+    }
+  },
+  {
+    "id": "puzzle-2",
+    "type": "logic",
+    "title": "Number Sequence Challenge",
+    "difficulty": "Medium",
+    "thumbnail": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=300&fit=crop",
+    "data": {
+      "pattern": "arithmetic",
+      "sequence": [2, 4, 6, 8, "?"],
+      "answer": 10
+    }
+  },
+  {
+    "id": "puzzle-3",
+    "type": "crossword",
+    "title": "Daily Crossword",
+    "difficulty": "Hard",
+    "thumbnail": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=300&fit=crop",
+    "data": {
+      "gridSize": "15x15",
+      "clues": 45,
+      "theme": "general knowledge"
+    }
+  },
+  {
+    "id": "puzzle-4",
+    "type": "sudoku",
+    "title": "Classic Sudoku",
+    "difficulty": "Easy",
+    "thumbnail": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=300&fit=crop",
+    "data": {
+      "gridSize": "9x9",
+      "difficulty": "beginner",
+      "prefilled": 35
+    }
+  },
+  {
+    "id": "puzzle-5",
+    "type": "trivia",
+    "title": "Geography Quiz",
+    "difficulty": "Medium",
+    "thumbnail": "https://images.unsplash.com/photo-1597149635543-41085c0c4a60?w=400&h=300&fit=crop",
+    "data": {
+      "category": "geography",
+      "questions": 15,
+      "timeLimit": 300
+    }
+  },
+  {
+    "id": "puzzle-6",
+    "type": "jigsaw",
+    "title": "Ocean Sunset",
+    "difficulty": "Hard",
+    "thumbnail": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=400&h=300&fit=crop",
+    "data": {
+      "pieces": 200,
+      "imageUrl": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=800&h=600&fit=crop",
+      "category": "nature"
+    }
+  },
+  {
+    "id": "puzzle-7",
+    "type": "logic",
+    "title": "Pattern Recognition",
+    "difficulty": "Hard",
+    "thumbnail": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=300&fit=crop",
+    "data": {
+      "pattern": "geometric",
+      "shapes": ["circle", "square", "triangle"],
+      "sequence": 8
+    }
+  },
+  {
+    "id": "puzzle-8",
+    "type": "sudoku",
+    "title": "Expert Sudoku",
+    "difficulty": "Hard",
+    "thumbnail": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=300&fit=crop",
+    "data": {
+      "gridSize": "9x9",
+      "difficulty": "expert",
+      "prefilled": 22
+    }
+  },
+  {
+    "id": "puzzle-9",
+    "type": "trivia",
+    "title": "Science Facts",
+    "difficulty": "Easy",
+    "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=300&fit=crop",
+    "data": {
+      "category": "science",
+      "questions": 10,
+      "timeLimit": 180
+    }
+  },
+  {
+    "id": "puzzle-10",
+    "type": "crossword",
+    "title": "Movie Themed",
+    "difficulty": "Medium",
+    "thumbnail": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=300&fit=crop",
+    "data": {
+      "gridSize": "11x11",
+      "clues": 32,
+      "theme": "movies"
+    }
+  },
+  {
+    "id": "puzzle-11",
+    "type": "jigsaw",
+    "title": "City Skyline",
+    "difficulty": "Medium",
+    "thumbnail": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=300&fit=crop",
+    "data": {
+      "pieces": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop",
+      "category": "urban"
+    }
+  },
+  {
+    "id": "puzzle-12",
+    "type": "logic",
+    "title": "Word Ladder",
+    "difficulty": "Easy",
+    "thumbnail": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop",
+    "data": {
+      "startWord": "COLD",
+      "endWord": "WARM",
+      "steps": 4
+    }
+  },
+  {
+    "id": "puzzle-13",
+    "type": "trivia",
+    "title": "History Challenge",
+    "difficulty": "Hard",
+    "thumbnail": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=400&h=300&fit=crop",
+    "data": {
+      "category": "history",
+      "questions": 20,
+      "timeLimit": 600
+    }
+  },
+  {
+    "id": "puzzle-14",
+    "type": "sudoku",
+    "title": "Medium Sudoku",
+    "difficulty": "Medium",
+    "thumbnail": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=300&fit=crop",
+    "data": {
+      "gridSize": "9x9",
+      "difficulty": "intermediate",
+      "prefilled": 28
+    }
+  },
+  {
+    "id": "puzzle-15",
+    "type": "crossword",
+    "title": "Sports Crossword",
+    "difficulty": "Easy",
+    "thumbnail": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=300&fit=crop",
+    "data": {
+      "gridSize": "9x9",
+      "clues": 24,
+      "theme": "sports"
+    }
+  }
+]

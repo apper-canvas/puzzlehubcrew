@@ -1,0 +1,162 @@
+[
+  {
+    "id": "score-1",
+    "playerName": "PuzzleMaster",
+    "score": 520,
+    "time": 380,
+    "puzzleType": "logic",
+    "submittedAt": "2024-01-14T16:30:00.000Z"
+  },
+  {
+    "id": "score-2",
+    "playerName": "WordWiz",
+    "score": 495,
+    "time": 450,
+    "puzzleType": "crossword",
+    "submittedAt": "2024-01-15T10:15:00.000Z"
+  },
+  {
+    "id": "score-3",
+    "playerName": "JigsawJedi",
+    "score": 485,
+    "time": 320,
+    "puzzleType": "jigsaw",
+    "submittedAt": "2024-01-13T14:20:00.000Z"
+  },
+  {
+    "id": "score-4",
+    "playerName": "SudokuSage",
+    "score": 480,
+    "time": 180,
+    "puzzleType": "sudoku",
+    "submittedAt": "2024-01-14T09:45:00.000Z"
+  },
+  {
+    "id": "score-5",
+    "playerName": "TriviaKing",
+    "score": 475,
+    "time": 240,
+    "puzzleType": "trivia",
+    "submittedAt": "2024-01-13T11:30:00.000Z"
+  },
+  {
+    "id": "score-6",
+    "playerName": "LogicLord",
+    "score": 465,
+    "time": 420,
+    "puzzleType": "logic",
+    "submittedAt": "2024-01-15T16:00:00.000Z"
+  },
+  {
+    "id": "score-7",
+    "playerName": "BrainTeaser",
+    "score": 458,
+    "time": 395,
+    "puzzleType": "crossword",
+    "submittedAt": "2024-01-14T13:15:00.000Z"
+  },
+  {
+    "id": "score-8",
+    "playerName": "PieceByPiece",
+    "score": 445,
+    "time": 480,
+    "puzzleType": "jigsaw",
+    "submittedAt": "2024-01-13T17:25:00.000Z"
+  },
+  {
+    "id": "score-9",
+    "playerName": "NumberNinja",
+    "score": 440,
+    "time": 210,
+    "puzzleType": "sudoku",
+    "submittedAt": "2024-01-15T08:40:00.000Z"
+  },
+  {
+    "id": "score-10",
+    "playerName": "QuizWhiz",
+    "score": 435,
+    "time": 285,
+    "puzzleType": "trivia",
+    "submittedAt": "2024-01-14T12:50:00.000Z"
+  },
+  {
+    "id": "score-11",
+    "playerName": "PatternPro",
+    "score": 425,
+    "time": 365,
+    "puzzleType": "logic",
+    "submittedAt": "2024-01-13T15:10:00.000Z"
+  },
+  {
+    "id": "score-12",
+    "playerName": "WordSmith",
+    "score": 420,
+    "time": 510,
+    "puzzleType": "crossword",
+    "submittedAt": "2024-01-15T14:35:00.000Z"
+  },
+  {
+    "id": "score-13",
+    "playerName": "PuzzlePro",
+    "score": 415,
+    "time": 390,
+    "puzzleType": "jigsaw",
+    "submittedAt": "2024-01-14T18:20:00.000Z"
+  },
+  {
+    "id": "score-14",
+    "playerName": "GridMaster",
+    "score": 410,
+    "time": 195,
+    "puzzleType": "sudoku",
+    "submittedAt": "2024-01-13T09:55:00.000Z"
+  },
+  {
+    "id": "score-15",
+    "playerName": "FactFinder",
+    "score": 405,
+    "time": 295,
+    "puzzleType": "trivia",
+    "submittedAt": "2024-01-15T12:15:00.000Z"
+  },
+  {
+    "id": "score-16",
+    "playerName": "ThinkFast",
+    "score": 398,
+    "time": 340,
+    "puzzleType": "logic",
+    "submittedAt": "2024-01-14T11:40:00.000Z"
+  },
+  {
+    "id": "score-17",
+    "playerName": "CrosswordCraze",
+    "score": 385,
+    "time": 465,
+    "puzzleType": "crossword",
+    "submittedAt": "2024-01-13T16:30:00.000Z"
+  },
+  {
+    "id": "score-18",
+    "playerName": "AssemblyAce",
+    "score": 380,
+    "time": 425,
+    "puzzleType": "jigsaw",
+    "submittedAt": "2024-01-15T10:45:00.000Z"
+  },
+  {
+    "id": "score-19",
+    "playerName": "DigitDetective",
+    "score": 375,
+    "time": 225,
+    "puzzleType": "sudoku",
+    "submittedAt": "2024-01-14T15:20:00.000Z"
+  },
+  {
+    "id": "score-20",
+    "playerName": "KnowledgeBase",
+    "score": 365,
+    "time": 310,
+    "puzzleType": "trivia",
+    "submittedAt": "2024-01-13T13:45:00.000Z"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "daily-2024-01-15",
+    "date": "2024-01-15T00:00:00.000Z",
+    "puzzleId": "puzzle-3",
+    "participants": 156,
+    "topScores": [
+      {
+        "playerName": "PuzzleMaster",
+        "score": 480,
+        "time": 420,
+        "puzzleType": "crossword"
+      },
+      {
+        "playerName": "WordWiz",
+        "score": 465,
+        "time": 450,
+        "puzzleType": "crossword"
+      },
+      {
+        "playerName": "BrainTeaser",
+        "score": 442,
+        "time": 478,
+        "puzzleType": "crossword"
+      },
+      {
+        "playerName": "QuickSolver",
+        "score": 438,
+        "time": 485,
+        "puzzleType": "crossword"
+      },
+      {
+        "playerName": "LogicLord",
+        "score": 425,
+        "time": 495,
+        "puzzleType": "crossword"
+      }
+    ],
+    "completed": true
+  },
+  {
+    "id": "daily-2024-01-14",
+    "date": "2024-01-14T00:00:00.000Z",
+    "puzzleId": "puzzle-7",
+    "participants": 142,
+    "topScores": [
+      {
+        "playerName": "LogicLord",
+        "score": 520,
+        "time": 380,
+        "puzzleType": "logic"
+      },
+      {
+        "playerName": "PatternPro",
+        "score": 495,
+        "time": 405,
+        "puzzleType": "logic"
+      },
+      {
+        "playerName": "ThinkFast",
+        "score": 485,
+        "time": 415,
+        "puzzleType": "logic"
+      }
+    ],
+    "completed": true
+  },
+  {
+    "id": "daily-2024-01-13",
+    "date": "2024-01-13T00:00:00.000Z",
+    "puzzleId": "puzzle-5",
+    "participants": 198,
+    "topScores": [
+      {
+        "playerName": "TriviaKing",
+        "score": 450,
+        "time": 240,
+        "puzzleType": "trivia"
+      },
+      {
+        "playerName": "FactFinder",
+        "score": 432,
+        "time": 268,
+        "puzzleType": "trivia"
+      },
+      {
+        "playerName": "KnowledgeBase",
+        "score": 418,
+        "time": 282,
+        "puzzleType": "trivia"
+      }
+    ],
+    "completed": true
+  }
+]
