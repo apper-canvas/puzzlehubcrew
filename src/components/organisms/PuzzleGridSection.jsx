@@ -1,7 +1,7 @@
 import React from 'react';
-import PuzzleCard from '@/components/molecules/PuzzleCard'; // New molecule
-import EmptyState from '@/components/organisms/EmptyState'; // New organism
-import { motion } from 'framer-motion'; // Allowed as it's from MainFeature.jsx
+import PuzzleCard from '../molecules/PuzzleCard';
+import { EmptyState } from './EmptyState';
+import { motion } from 'framer-motion';
 
 const PuzzleGridSection = ({ puzzles, selectedType, puzzleTypesConfig, onPlay }) => {
     const currentTypeLabel = selectedType === 'all'
@@ -17,9 +17,9 @@ const PuzzleGridSection = ({ puzzles, selectedType, puzzleTypesConfig, onPlay })
                 <span className="text-gray-600">{puzzles.length} available</span>
             </div>
 
-            {puzzles.length === 0 ? (
+{puzzles.length === 0 ? (
                 <EmptyState
-                    iconName="Search"
+                    icon="Search"
                     message="No puzzles found for this type"
                     animateIcon={false}
                 />
