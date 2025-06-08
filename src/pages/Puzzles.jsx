@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react'
 import { toast } from 'react-toastify'
 import { PuzzleTypeSection } from '../components/organisms/PuzzleTypeSection'
 import { PuzzleGridSection } from '../components/organisms/PuzzleGridSection'
-import { LoadingState } from '../components/organisms/LoadingState'
-import { ErrorState } from '../components/organisms/ErrorState'
-import { EmptyState } from '../components/organisms/EmptyState'
+import LoadingState from '../components/organisms/LoadingState'
+import ErrorState from '../components/organisms/ErrorState'
+import EmptyState from '../components/organisms/EmptyState'
 import { puzzleService } from '../services'
 
 const Puzzles = () => {
